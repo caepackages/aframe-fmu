@@ -1,0 +1,18 @@
+{
+  "name": "aframe-fmu",
+  "version": "1.0.0",
+  "description": "aframe-fmu",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": "caepackages/aframe-fmu",
+  "keywords": [
+  ],
+  "author": "Frank Rettig",
+  "license": "LicenseRef-LICENSE",
+  "bugs": {
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
