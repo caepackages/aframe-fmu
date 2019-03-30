@@ -25,9 +25,7 @@ browserify main.js -o bundle.js
   </head>
     <script src="bundle.js"></script>  
   <body>
-    <a-scene background= "color:white">
-  
-    </a-scene>
+    <a-scene background= "color:white"></a-scene>
   </body>
 </html>
 ```
