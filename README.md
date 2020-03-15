@@ -29,3 +29,8 @@ browserify main.js -o bundle.js
   </body>
 </html>
 ```
+
+## License
+```
+(c) Copyright 2020 Frank Rettig, all rights reserved.
+```
